@@ -3,18 +3,16 @@
 
 > Status: Completed ✔️
 ## Widgets used so far in this repository::
-<div style="text-align: center;">
-    <table>
-        <tr>
-            <td>brasil_fields</td>
-            <td>intl</td>
-        </tr>
-            <tr>
-            <td>^1.2.0</td>
-            <td>^0.17.0</td>
-        </tr>
-    </table>
-</div>
+<table>
+    <tr>
+        <td>brasil_fields</td>
+        <td>intl</td>
+    </tr>
+    <tr>
+        <td>^1.2.0</td>
+        <td>^0.17.0</td>
+    </tr>
+</table>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
