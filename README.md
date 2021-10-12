@@ -3,7 +3,7 @@
 
 > Status: Completed ✔️
 ## Widgets used so far in this repository::
-<table style="text-align: center;">
+<table>
     <tr>
         <td>brasil_fields</td>
         <td>intl</td>
@@ -23,3 +23,13 @@
 </div><br />
 
 [![wakatime](https://wakatime.com/badge/user/b5a60b2c-4302-4698-a232-2e6cf19ddd4e.svg)](https://wakatime.com/@b5a60b2c-4302-4698-a232-2e6cf19ddd4e)
+
+<style>
+    table,
+    th,
+    td {
+        text-align: center;
+        font-weight: bold;
+        padding: 5px;
+    }
+</style>
