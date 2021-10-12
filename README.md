@@ -3,7 +3,7 @@
 
 > Status: Completed ✔️
 ## Widgets used so far in this repository::
-<table>
+<table style="text-align: center;">
     <tr>
         <td>brasil_fields</td>
         <td>intl</td>
