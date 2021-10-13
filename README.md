@@ -7,10 +7,12 @@
     <tr>
         <td>brasil_fields</td>
         <td>intl</td>
+        <td>validadores</td>
     </tr>
     <tr>
         <td>^1.2.0</td>
         <td>^0.17.0</td>
+        <td>^1.0.5</td>
     </tr>
 </table>
 
